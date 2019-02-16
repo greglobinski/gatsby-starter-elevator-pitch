@@ -1,0 +1,12 @@
+{
+  "name": "gatsby-starter-elevator-pitch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.1.4",
+    "gatsby-theme-elevator-pitch": "^0.0.30",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  }
+}
